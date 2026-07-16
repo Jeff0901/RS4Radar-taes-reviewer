@@ -61,6 +61,12 @@ references/
 
 The minimal distribution excludes source PDFs, Zotero data, observation cards, construction notes, and project-specific manuscript material.
 
+## Acknowledgments
+
+This Skill was developed with assistance from OpenAI Codex for corpus synthesis,
+rule structuring, implementation, and validation. Final content and repository
+ownership remain with the repository author.
+
 ## License
 
 MIT
