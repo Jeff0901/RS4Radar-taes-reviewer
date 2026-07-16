@@ -1,0 +1,4 @@
+interface:
+  display_name: "TAES RS4Radar Reviewer"
+  short_description: "Pre-submission review for TAES radar manuscripts"
+  default_prompt: "Use $taes-rs4radar-reviewer to assess this radar manuscript for TAES fit, technical completeness, and revision priorities."

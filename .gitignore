@@ -1,0 +1,12 @@
+# Local validation and construction material
+tests/
+source_materials/
+*.pdf
+
+# Editor, operating-system, and runtime files
+.DS_Store
+Thumbs.db
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
