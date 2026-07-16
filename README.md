@@ -63,4 +63,4 @@ The minimal distribution excludes source PDFs, Zotero data, observation cards, c
 
 ## License
 
-No license has been granted for this private repository.
+MIT
