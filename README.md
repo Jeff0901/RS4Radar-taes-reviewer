@@ -11,17 +11,15 @@ It reviews more than English expression. The Skill checks TAES fit, radar-system
 - Diagnose Title, Abstract, Introduction, Problem Formulation, Proposed Method, Experiments, and Conclusion.
 - Apply additional range-Doppler recovery checks only when the manuscript's dominant task matches that scope.
 
-Do not use this Skill to process an assigned confidential peer-review manuscript. The Skill does not represent IEEE, TAES editors, or official reviewers, and it does not predict acceptance.
+Do not use this Skill to process an assigned confidential peer-review manuscript and manuscript writing. The Skill does not represent IEEE, TAES editors, or official reviewers, and it does not predict acceptance. Both this skill and AI agents can make mistakes, please maintain an objective and rigorous attitude towards academic researching, writing, and reviewing.
 
 ## Installation
 
-Clone or copy this repository to:
+Tell your agent:
 
 ```text
-%USERPROFILE%\.codex\skills\taes-rs4radar-reviewer
+Installing the skill from URL:https://github.com/Jeff0901/RS4Radar-taes-reviewer
 ```
-
-The installed directory should contain `SKILL.md`, `agents/`, `assets/`, and `references/` at its root.
 
 ## Usage
 
